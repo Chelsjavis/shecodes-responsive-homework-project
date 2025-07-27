@@ -74,11 +74,3 @@ h3 {
 .email-link:hover {
   text-decoration: underline;
 }
-
-.image-tiles {
-  transition: 200ms ease-in-out;
-}
-
-.image-tiles:hover {
-  scale: 1.1;
-}
